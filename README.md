@@ -1,4 +1,6 @@
 # Projeto-X-Devs
+![Imagem do WhatsApp de 2024-06-11 à(s) 01 07 46_e57fb057](https://github.com/RafaelPaesRamos/Projeto-X-Devs/assets/82539582/56007a1c-612a-4b82-b193-eee56da24dc3)
+
 Este projeto apresenta uma interface de personagens fictícios, os "X-Devs", cada um com habilidades e histórias únicas, projetadas para tornar a experiência de aprendizado e desenvolvimento web mais divertida e envolvente.
 
 Estrutura do Código
